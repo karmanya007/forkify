@@ -1,6 +1,7 @@
 # Forkify
 
 Thanks to [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
+
 A recipes searching app using real world a API
 
 -------
